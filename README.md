@@ -1,1 +1,1 @@
-# Smart contracts for Fantom Artion Marketplace
+# Smart contracts for Fantom Artfallon Marketplace
